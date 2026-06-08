@@ -72,7 +72,7 @@ seed
 可以先运行：
 
 ```bash
-python test_dev.py
+python3 test_dev.py
 ```
 
 公开测试只检查接口、形状和有限性，不代表模型的物理诊断已经完整。
